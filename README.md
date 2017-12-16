@@ -5,3 +5,4 @@ Guard can be a big help, by running files after every save. This repository show
 
 ## To run
 ###### Use 'rake guard' to start guard
+guard is not required anywhere. That is ok. It's not supposed to be.
